@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jeeplus:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>jeeplus</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="jeeplus.war">
+      <element id="artifact" artifact-name="jeeplus:war exploded" />
+    </root>
+  </artifact>
+</component>
