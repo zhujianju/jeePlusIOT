@@ -37,7 +37,7 @@
         <dozer.version>5.5.1</dozer.version>
         <poi.version>3.9</poi.version>
         <freemarker.version>2.3.25-incubating</freemarker.version>
-        <quartz.version>2.2.3</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
 
         <guava.version>20.0</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
